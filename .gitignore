@@ -1,0 +1,11 @@
+.DS_Store
+.eggs
+*.pyc
+*.swp
+*.xml
+damage.egg-info
+.ipynb_checkpoints
+*.out
+*.pdf
+*.p
+*.h5
