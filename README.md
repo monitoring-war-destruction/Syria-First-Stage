@@ -1,4 +1,4 @@
-# Damage
+# Syria-First-Stage
 Repository containing code for infering building damage from satellite imaging
 
 ## Installation
