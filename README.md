@@ -116,6 +116,6 @@ __The coordinates problem__
 
 Some .tiff files seem to have either the latitude or longitude constant across the entire image. This renders them useless because we can't link them to the annotation, where the damage levels are associated to a specific coordinate. See the following notebook for the corresponding analysis:
 
-https://github.com/javiermas/building-damage/blob/master/notebooks/jma_02_coordinate_problems.ipynb
+https://github.com/monitoring-war-destruction/Syria-First-Stage/jma_02_coordinate_problems.ipynb
 
 It turns out that they can be reconstructed by using the corresponding .bmp files.
